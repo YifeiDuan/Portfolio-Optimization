@@ -1,0 +1,7 @@
+# YK prophet parameters default values
+min_last_obs: 7
+change_algorithm_obs: 50
+min_obs: 7
+max_changepoints: 25
+seasonality_mode: '1'
+confidence: 0.90
